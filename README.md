@@ -1,6 +1,10 @@
-# ¡Hola! 👋 Soy Alejandro
+
+![github-header-image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)
 
 Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudiando desarrollo de software en la Corporación Universitaria Remington. Gracias a ello, paso gran parte de mi día programando y aprendiendo sobre temas destacados en el mundo de la tecnología.
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ## Tecnologías y Herramientas
 
