@@ -12,9 +12,9 @@ Soy un desarrollador apasionado por Python, las Gui's. Actualmente, me estoy est
 
 ## Proyectos Destacados
 
--**App de extraccion de data por medio de clases css**
--**GUI para el manejo de tareas disenada en python con una version modificada de TKinter**
--**Diversos sistemas de gestion (Cines, tiendas, almacenes, etc)**
+-**App de extraccion de data por medio de clases css**,
+-**GUI para el manejo de tareas disenada en python con una version modificada de TKinter**,
+-**Diversos sistemas de gestion (Cines, tiendas, almacenes, etc)**,
 
 
 
