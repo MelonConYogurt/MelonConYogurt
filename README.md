@@ -1,27 +1,24 @@
-# ¡Hola! 👋 Soy Alejandro 
+# ¡Hola! 👋 Soy Alejandro
 
-Soy un desarrollador apasionado por Python, las Gui's. Actualmente, me estoy estudiando desarrollo de sowfware en la corporacion universitaria remintong, gracias a ello me paso gran aprte de mi dia a dia programando y aprendiendo sobre temas destacados en el mundo de la tecnologia. 
+Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudiando desarrollo de software en la Corporación Universitaria Remington. Gracias a ello, paso gran parte de mi día programando y aprendiendo sobre temas destacados en el mundo de la tecnología.
 
 ## Tecnologías y Herramientas
 
-- **Lenguajes de Programación:** Python, java, 
-- **Bases de Datos:** MySQL, Postgress, SQL lite
-- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, sqlachlemy, Mathplotli, etc.
+- **Lenguajes de Programación:** Python, Java
+- **Bases de Datos:** MySQL, PostgreSQL, SQLite
+- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, entre otros
 - **Desarrollo Web:** HTML, CSS, (futuro) JavaScript
 - **Control de Versiones:** Git, GitHub
 
 ## Proyectos Destacados
 
--**App de extraccion de data por medio de clases css**,
--**GUI para el manejo de tareas disenada en python con una version modificada de TKinter**,
--**Diversos sistemas de gestion (Cines, tiendas, almacenes, etc)**,
-
-
+- **App de Extracción de Datos por Medio de Clases CSS**
+- **GUI para el Manejo de Tareas Diseñada en Python con una Versión Modificada de Tkinter**
+- **Diversos Sistemas de Gestión** (Cines, tiendas, almacenes, etc.)
 
 ## Conéctate Conmigo
 
-
-- [Correo Electrónico](alejoalejopsornal@gmail.com)
+- [Correo Electrónico](mailto:alejoalejopsornal@gmail.com)
 
 ## ¿Quieres Colaborar?
 
@@ -30,3 +27,5 @@ Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarr
 ---
 
 ¡Gracias por visitar mi perfil!
+
+
