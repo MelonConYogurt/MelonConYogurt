@@ -22,7 +22,7 @@ Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudia
 - **GUI para el Manejo de Tareas Diseñada en Python con una Versión Modificada de Tkinter**
 - **Diversos Sistemas de Gestión** (Cines, tiendas, almacenes, etc.)
 - **Clon de la pagina web de nike**
-- **Pagina de card's hechas en Html y css puro
+- **Pagina de card's hechas en Html y css puro**
 
 
 ## ¿Quieres Colaborar?
