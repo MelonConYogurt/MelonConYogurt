@@ -5,17 +5,19 @@ Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudia
 
 ## Tecnologías y Herramientas
 
-- **Lenguajes de Programación:** Python, Java
+- **Lenguajes de Programación:** Python
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
 - **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, entre otros
 - **Desarrollo Web:** HTML, CSS, (futuro) JavaScript
-- **Control de Versiones:** Git, GitHub
+- **Control de Versiones:** Git, GitHub, Git kraken
+- **Contrucion de contendores**: Docker, Docker Desktop
 
 
 ## Proyectos de prueba
 
 - **App de Extracción de Datos por Medio de Clases CSS**
 - **GUI para el Manejo de Tareas Diseñada en Python con una Versión Modificada de Tkinter**
+- **API generadora de facturas** (plantillas HTML y PDF)
 - **Diversos Sistemas de Gestión** (Cines, tiendas, almacenes, etc.)
 - **Clon de la pagina web de nike**
 - **Pagina de card's hechas en Html y css puro**
