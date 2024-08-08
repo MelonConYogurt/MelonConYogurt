@@ -8,7 +8,7 @@ Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudia
 - **Lenguajes de Programación:** Python
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
 - **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, entre otros
-- **Desarrollo Web:** HTML, CSS, (futuro) JavaScript
+- **Desarrollo Web:** HTML, CSS, JavaScript (futuro) 
 - **Control de Versiones:** Git, GitHub, Git kraken
 - **Contrucion de contendores**: Docker, Docker Desktop
 
