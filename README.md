@@ -22,6 +22,9 @@ Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudia
 - **Clon de la pagina web de nike**
 - **Pagina de card's hechas en Html y css puro**
 
+<hr>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MelonConYogurt&theme=dark&hide_border=false)
 
 ## ¿Quieres Colaborar?
 
