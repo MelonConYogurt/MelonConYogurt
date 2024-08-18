@@ -1,4 +1,3 @@
-
 ![github-header-image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)
 
 Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudiando desarrollo de software en la Corporación Universitaria Remington. Gracias a ello, paso gran parte de mi día programando y aprendiendo sobre temas destacados en el mundo de la tecnología.
