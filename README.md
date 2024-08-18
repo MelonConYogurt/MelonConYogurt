@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)
+[![github-header-image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)](url)
+
 
 Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudiando desarrollo de software en la Corporación Universitaria Remington. Gracias a ello, paso gran parte de mi día programando y aprendiendo sobre temas destacados en el mundo de la tecnología.
 
@@ -10,6 +11,9 @@ Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudia
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Control de Versiones:** Git, GitHub, Git kraken
 - **Contrucion de contendores**: Docker, Docker Desktop
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
 
 
 ## Proyectos de prueba
@@ -34,6 +38,6 @@ Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarr
 - [Correo Electrónico](mailto:alejoalejopsornal@gmail.com)
 ---
 
-¡Gracias por visitar mi perfil!
+¡Gracias por visitar mi perfil!  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 
 
