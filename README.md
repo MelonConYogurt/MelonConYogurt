@@ -1,9 +1,10 @@
 [![github-header-image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)](url)
 
-
+<br>
 Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudiando desarrollo de software en la Corporación Universitaria Remington. Gracias a ello, paso gran parte de mi día programando y aprendiendo sobre temas destacados en el mundo de la tecnología.
 
 ## Tecnologías y Herramientas
+<br>
 
 - **Lenguajes de Programación Backend:** Python
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
@@ -32,6 +33,9 @@ Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudia
 ## ¿Quieres Colaborar?
 
 Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarrolladores. ¡No dudes en contactarme si tienes una idea interesante o simplemente quieres charlar sobre tecnología!
+
+
+<br>
 
 ## Conéctate Conmigo
 
