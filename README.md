@@ -1,6 +1,6 @@
 ---
 
-[![GitHub Header Image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)](url)
+[![GitHub Header Image](https://github.com/user-attachments/assets/5c6dc07f-3faf-4267-b64e-26f0e15254dd)](url)
 
 
 Soy un desarrollador entusiasta con una pasión particular por Python y las interfaces gráficas de usuario (GUI). Actualmente, estoy cursando Desarrollo de Software en la Corporación Universitaria Remington, lo que me permite dedicar gran parte de mi tiempo a programar y aprender sobre las últimas tendencias y tecnologías en el mundo del desarrollo.
