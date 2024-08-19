@@ -2,7 +2,6 @@
 
 [![GitHub Header Image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)](url)
 
-# ¡Hola! Soy [Tu Nombre] 👋
 
 Soy un desarrollador entusiasta con una pasión particular por Python y las interfaces gráficas de usuario (GUI). Actualmente, estoy cursando Desarrollo de Software en la Corporación Universitaria Remington, lo que me permite dedicar gran parte de mi tiempo a programar y aprender sobre las últimas tendencias y tecnologías en el mundo del desarrollo.
 
@@ -36,7 +35,10 @@ Soy un desarrollador entusiasta con una pasión particular por Python y las inte
 
 ## 📈 Mi Actividad en GitHub
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MelonConYogurt&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MelonConYogurt&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</p>
+
 
 ---
 
