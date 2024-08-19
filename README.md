@@ -1,47 +1,58 @@
-[![github-header-image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)](url)
+---
 
-<br>
-Soy un desarrollador apasionado por Python y las GUI. Actualmente, estoy estudiando desarrollo de software en la Corporación Universitaria Remington. Gracias a ello, paso gran parte de mi día programando y aprendiendo sobre temas destacados en el mundo de la tecnología.
+[![GitHub Header Image](https://github.com/user-attachments/assets/1f28391a-36ac-489a-b703-4a438e284fd3)](url)
 
-## Tecnologías y Herramientas
-<br>
+# ¡Hola! Soy [Tu Nombre] 👋
+
+Soy un desarrollador entusiasta con una pasión particular por Python y las interfaces gráficas de usuario (GUI). Actualmente, estoy cursando Desarrollo de Software en la Corporación Universitaria Remington, lo que me permite dedicar gran parte de mi tiempo a programar y aprender sobre las últimas tendencias y tecnologías en el mundo del desarrollo.
+
+---
+
+## 🚀 Tecnologías y Herramientas
 
 - **Lenguajes de Programación Backend:** Python
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
-- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, React, nextjs entre otros
+- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, React, Next.js, entre otros.
 - **Desarrollo Web:** HTML, CSS, JavaScript
-- **Control de Versiones:** Git, GitHub, Git kraken
-- **Contrucion de contendores**: Docker, Docker Desktop
+- **Control de Versiones:** Git, GitHub, GitKraken
+- **Contenedores:** Docker, Docker Desktop
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+</p>
 
-
-## Proyectos de prueba
-
-- **App de Extracción de Datos por Medio de Clases CSS**
-- **GUI para el Manejo de Tareas Diseñada en Python con una Versión Modificada de Tkinter**
-- **API generadora de facturas** (plantillas HTML y PDF)
-- **Diversos Sistemas de Gestión** (Cines, tiendas, almacenes, etc.)
-- **Clon de la pagina web de nike**
-- **Pagina de card's hechas en Html y css puro**
-
-<hr>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MelonConYogurt&theme=dark&hide_border=false)
-
-## ¿Quieres Colaborar?
-
-Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarrolladores. ¡No dudes en contactarme si tienes una idea interesante o simplemente quieres charlar sobre tecnología!
-
-
-<br>
-
-## Conéctate Conmigo
-
-- [Correo Electrónico](mailto:alejoalejopsornal@gmail.com)
 ---
 
-¡Gracias por visitar mi perfil!  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+## 💡 Proyectos Destacados
 
+- **App de Extracción de Datos por Clases CSS:** Herramienta que permite extraer datos utilizando selectores CSS.
+- **GUI para Gestión de Tareas:** Interfaz gráfica desarrollada en Python utilizando una versión personalizada de Tkinter.
+- **API Generadora de Facturas:** Generación de facturas en formatos HTML y PDF.
+- **Sistemas de Gestión:** Desarrollo de sistemas para cines, tiendas, almacenes, entre otros.
+- **Clon de la Página Web de Nike:** Replica funcional de la página web de Nike.
+- **Página de Tarjetas:** Diseñada utilizando HTML y CSS puro.
+
+---
+
+## 📈 Mi Actividad en GitHub
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MelonConYogurt&theme=dark&hide_border=false)
+
+---
+
+## 🤝 ¿Te Gustaría Colaborar?
+
+Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarrolladores. Si tienes una idea interesante o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
+
+---
+
+## 🌐 Conéctate Conmigo
+
+- 📧 [Correo Electrónico](mailto:alejoalejopsornal@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil! <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+
+---
 
