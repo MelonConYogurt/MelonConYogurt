@@ -12,7 +12,7 @@ Soy un desarrollador entusiasta con una pasión particular por Python y las inte
 
 - **Lenguajes de Programación Backend:** Python
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
-- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, React, Next.js, entre otros.
+- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, React, Next.js, tailwind, NextJS, entre otros.
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Control de Versiones:** Git, GitHub, GitKraken
 - **Contenedores:** Docker, Docker Desktop
