@@ -49,7 +49,7 @@ Siempre estoy abierto a colaborar en nuevos proyectos y aprender de otros desarr
 
 ## 🌐 Conéctate Conmigo
 
-- 📧 [Correo Electrónico](mailto:alejoalejopsornal@gmail.com)
+- 📧 [Correo Electrónico](mailto:alejopsornal@gmail.com)
 
 ---
 
