@@ -6,6 +6,8 @@
 
 Soy un desarrollador entusiasta con una pasión particular por Python y las interfaces gráficas de usuario (GUI). Actualmente, estoy cursando Desarrollo de Software en la Corporación Universitaria Remington, lo que me permite dedicar gran parte de mi tiempo a programar y aprender sobre las últimas tendencias y tecnologías en el mundo del desarrollo.
 
+
+
 ---
     
 ## 🚀 Tecnologías y Herramientas
