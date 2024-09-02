@@ -34,9 +34,8 @@ Soy un desarrollador entusiasta con una pasión particular por Python y las inte
 ## 📈 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MelonConYogurt&theme=dark&border_radius=10&card_width=527" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MelonConYogurt&theme=dark&border_radius=10" alt="GitHub Streak Stats">
 </p>
-
 
 ---
 
