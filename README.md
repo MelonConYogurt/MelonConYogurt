@@ -1,4 +1,3 @@
-Aquí tienes el mensaje actualizado con los enlaces a tus proyectos destacados:
 
 ---
 
