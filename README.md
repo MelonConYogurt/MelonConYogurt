@@ -7,7 +7,10 @@
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+<h1 align="center">
+  🚀 Tecnologías y Herramienta
+</h1>
+
 
 ## Backend:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
