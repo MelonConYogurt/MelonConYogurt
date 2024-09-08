@@ -11,7 +11,6 @@
 
 - **Backend:** Python
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
-- **Frameworks y Librerías:** FastAPI, Faker, CustomTkinter, SQLAlchemy, Matplotlib, React, Next.js, Tailwind CSS, entre otros.
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Control de Versiones:** Git, GitHub, GitKraken
 - **Contenedores:** Docker
@@ -49,8 +48,3 @@ Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 
 - 📧 [alejopsornal@gmail.com](mailto:alejopsornal@gmail.com)
 
----
-
-¡Gracias por visitar mi perfil!
-
----
