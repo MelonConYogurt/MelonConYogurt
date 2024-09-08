@@ -54,4 +54,3 @@ Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 ¡Gracias por visitar mi perfil!
 
 ---
-¿Qué te parece ahora?
