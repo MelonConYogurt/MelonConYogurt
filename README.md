@@ -1,4 +1,3 @@
-
 ---
 
 [![GitHub Header Image](https://github.com/user-attachments/assets/5c6dc07f-3faf-4267-b64e-26f0e15254dd)](url)
@@ -7,10 +6,7 @@
 
 ---
 
-<h1 align="center">
-  🚀 Tecnologías y Herramienta
-</h1>
-
+## 🚀 Tecnologías y Herramientas
 
 ## Backend:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,7 +30,6 @@
 
 ## Contenedores:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 
 
 <p align="center">
@@ -70,3 +65,8 @@ Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 
 - 📧 [alejopsornal@gmail.com](mailto:alejopsornal@gmail.com)
 
+---
+
+¡Gracias por visitar mi perfil! <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+
+---
