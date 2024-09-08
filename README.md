@@ -1,4 +1,4 @@
-Aquí tienes una versión mejorada del mensaje inicial, con correcciones de redacción, estilo y organización más clara:
+Aquí tienes el mensaje actualizado con los enlaces a tus proyectos destacados:
 
 ---
 
@@ -25,12 +25,10 @@ Aquí tienes una versión mejorada del mensaje inicial, con correcciones de reda
 
 ## 💡 Proyectos Destacados
 
-- **App de Extracción de Datos con Selectores CSS:** Herramienta para extraer datos de páginas web utilizando selectores CSS.
-- **Interfaz Gráfica para Gestión de Tareas:** Aplicación gráfica en Python basada en CustomTkinter para organizar y gestionar tareas.
-- **API Generadora de Facturas:** Sistema para generar facturas en formato HTML y PDF.
-- **Sistemas de Gestión:** Desarrollo de sistemas para la gestión en cines, tiendas y almacenes.
-- **Clon Funcional de la Web de Nike:** Réplica interactiva y visualmente fiel de la página oficial de Nike.
-- **Página de Tarjetas de Presentación:** Creada con HTML y CSS puro, enfocado en diseño limpio y responsive.
+- [**API Generadora de Facturas en HTML y PDF**](https://github.com/MelonConYogurt/api-html-pdf-generator): Sistema que genera facturas en formatos HTML y PDF.
+- [**Aplicación de Inventario en React**](https://github.com/MelonConYogurt/inventory-react-app): Aplicación web para la gestión de inventarios desarrollada en React.
+- [**GUI para Gestión de Inventarios en Python**](https://github.com/MelonConYogurt/gui-python-inventarios-customtkinter): Interfaz gráfica para la gestión de inventarios, utilizando CustomTkinter en Python.
+- [**App de Extracción de Datos con CustomTkinter**](https://github.com/MelonConYogurt/gui-extraccion-data-customtkinter): Herramienta gráfica para extraer datos mediante selectores CSS en páginas web.
 
 ---
 
@@ -54,7 +52,7 @@ Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje. Si 
 
 ---
 
-¡Gracias por visitar mi perfil! <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+¡Gracias por visitar mi perfil!
 
 ---
-
+¿Qué te parece ahora?
