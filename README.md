@@ -44,9 +44,8 @@
 ---
 
 ## 📺 Mi Canal de YouTube
-[Visita mi canal aquí](https://www.youtube.com/channel/UCZw0RkautflfsCQ3jLDCztQ) donde comparto contenido sobre desarrollo, programación y tecnología .
 
----
+[![Alejandro Vélez - YouTube](https://github.com/user-attachments/assets/9a3007bd-ef9f-4670-80d6-963cc148e1c0)](https://www.youtube.com/channel/UCZw0RkautflfsCQ3jLDCztQ)
 
 ## 📈 Actividad en GitHub
 
