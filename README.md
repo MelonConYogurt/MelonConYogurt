@@ -2,6 +2,7 @@
 
 [![GitHub Header Image](https://github.com/user-attachments/assets/5c6dc07f-3faf-4267-b64e-26f0e15254dd)](url)
 
+# ¡Hola! 👋 Soy Alejandro Vélez Gómez
 
 ### Desarrollador **Full Stack** especializado en la creación de aplicaciones web funcionales, escalables y atractivas, utilizando las tecnologías más modernas.
 
@@ -44,8 +45,9 @@
 ---
 
 ## 📺 Mi Canal de YouTube
+[Visita mi canal aquí](https://www.youtube.com/channel/UCZw0RkautflfsCQ3jLDCztQ) donde comparto contenido sobre desarrollo, programación y tecnología.
 
-[![Alejandro Vélez - YouTube](https://github.com/user-attachments/assets/9a3007bd-ef9f-4670-80d6-963cc148e1c0)](https://www.youtube.com/channel/UCZw0RkautflfsCQ3jLDCztQ)
+---
 
 ## 📈 Actividad en GitHub
 
