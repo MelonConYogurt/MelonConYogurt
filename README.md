@@ -6,7 +6,6 @@
 
 ### Desarrollador **Full Stack** especializado en la creación de aplicaciones web funcionales, escalables y atractivas, utilizando las tecnologías más modernas.
 
----
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -25,7 +24,6 @@
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
 
 ## 💡 Proyectos Destacados
 
@@ -34,12 +32,10 @@
 - [**GUI para Gestión de Inventarios en Python**](https://github.com/MelonConYogurt/gui-python-inventarios-customtkinter) - Interfaz gráfica para la gestión de inventarios, utilizando CustomTkinter.
 - [**App de Extracción de Datos con CustomTkinter**](https://github.com/MelonConYogurt/gui-extraccion-data-customtkinter) - Herramienta gráfica para extraer datos mediante selectores CSS en páginas web.
 
----
 
 ## 📺 Mi Canal de YouTube
 [Visita mi canal aquí](https://www.youtube.com/channel/UCZw0RkautflfsCQ3jLDCztQ) donde comparto contenido sobre desarrollo, programación y tecnología.
 
----
 
 ## 📈 Actividad en GitHub
 
@@ -47,7 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MelonConYogurt&theme=dark&border_radius=10" alt="GitHub Streak Stats">
 </p>
 
----
 
 ## 🤝 Colaboremos
 
@@ -55,8 +50,8 @@ Si tienes un proyecto interesante o una idea que quieras discutir, no dudes en c
 
 - 📧 [alejopsornal@gmail.com](mailto:alejopsornal@gmail.com)
 
----
 
 ¡Gracias por visitar mi perfil! <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 
----
+
+
