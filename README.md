@@ -1,7 +1,5 @@
 ---
 
-
-
 [![GitHub Header Image](https://github.com/user-attachments/assets/5c6dc07f-3faf-4267-b64e-26f0e15254dd)](url)
 
 ### Desarrollador **Full Stack** especializado en la creación de aplicaciones web funcionales, escalables y atractivas, utilizando las tecnologías más modernas.
