@@ -1,54 +1,24 @@
----
+<h1 align="center">Hi 👋, I'm Alejandro Vélez</h1>
+<h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-[![GitHub Header Image](https://github.com/user-attachments/assets/5c6dc07f-3faf-4267-b64e-26f0e15254dd)](url)
+- 💬 Ask me about **Python, react, js, ts, etc**
 
-### Desarrollador **Full Stack** especializado en la creación de aplicaciones web funcionales, escalables y atractivas, utilizando las tecnologías más modernas.
+- 📫 How to reach me **alejopsornal@gmail.com**
 
-## 🚀 Tecnologías y Herramientas
+- ⚡ Fun fact **I'm the lowest rank in LoL.**
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-## 💡 Proyectos Destacados
-
-- [**API Generadora de Facturas en HTML y PDF**](https://github.com/MelonConYogurt/api-html-pdf-generator) - Sistema que genera facturas en formatos HTML y PDF.
-- [**Aplicación de Inventario en React**](https://github.com/MelonConYogurt/inventory-react-app) - Aplicación web para la gestión de inventarios desarrollada en React.
-- [**GUI para Gestión de Inventarios en Python**](https://github.com/MelonConYogurt/gui-python-inventarios-customtkinter) - Interfaz gráfica para la gestión de inventarios, utilizando CustomTkinter.
-- [**App de Extracción de Datos con CustomTkinter**](https://github.com/MelonConYogurt/gui-extraccion-data-customtkinter) - Herramienta gráfica para extraer datos mediante selectores CSS en páginas web.
-
-
-## 📺 Mi Canal de YouTube
-[Visita mi canal aquí](https://www.youtube.com/channel/UCZw0RkautflfsCQ3jLDCztQ) donde comparto contenido sobre desarrollo, programación y tecnología.
-
-
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MelonConYogurt&theme=dark&border_radius=10" alt="GitHub Streak Stats">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/mono_leandro_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mono_leandro_/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@alejandrovg-io3zb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alejandrovg-io3zb" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🤝 Colaboremos
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/melonconyogurt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="melonconyogurt" /></a></p><br><br>
 
-Si tienes un proyecto interesante o una idea que quieras discutir, no dudes en contactarme.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melonconyogurt&show_icons=true&locale=en&layout=compact" alt="melonconyogurt" /></p>
 
-- 📧 [alejopsornal@gmail.com](mailto:alejopsornal@gmail.com)
-
-
-¡Gracias por visitar mi perfil! <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonconyogurt&" alt="melonconyogurt" /></p>
