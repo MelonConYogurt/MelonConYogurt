@@ -27,5 +27,5 @@
 <p><a href="https://www.buymeacoffee.com/melonconyogurt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="melonconyogurt" /></a></p><br><br>
 <hr />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonconyogurt&" alt="melonconyogurt" /></p>
+[<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melonconyogurt&" alt="melonconyogurt" /></p>](https://github-readme-streak-stats.herokuapp.com/?user=melonconyogurt&)
 
